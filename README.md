@@ -19,7 +19,7 @@ Estudante de Ciência de Dados e IA, com formação técnica em Desenvolvimento 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasju&theme=dracula&layout=donut)]
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leasju&theme=dracula&layout=donut"
   />
 
 </p>
