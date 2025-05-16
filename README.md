@@ -10,16 +10,15 @@ Estudante de Ciência de Dados e IA, com formação técnica em Desenvolvimento 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leasju&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=leasju&custom_title=Stats&hide=prs,issues&show_icons=true&theme=dracula&include_all_commits=true&locale=en%" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leasju&theme=dracula&layout=donut"
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leasju&hide_rank=true&theme=dracula&layout=compact"
   />
-
 </p>
