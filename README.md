@@ -6,6 +6,10 @@
 
 ###
 
+<p align="center">Bacharelanda em Ciência de Dados e IA na PUC Campinas, com formação técnica em Desenvolvimento de Sistemas pela ETEC João Belarmino. Tenho interesse em análise de dados, IA e automação, com experiência em projetos utilizando Python, SQL e Power BI. Busco transformar dados em soluções práticas e estou em constante aprendizado.</p>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
